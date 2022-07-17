@@ -1,0 +1,8 @@
+com\pro\controller\MovieController.class
+com\pro\entity\Movie.class
+com\pro\service\MovieService.class
+com\pro\dao\MovieDaoImpl.class
+com\pro\config\FrontControllerConfig.class
+com\pro\dao\MovieDao.class
+com\pro\service\MovieServiceImpl.class
+com\pro\config\MyWebAppConfig.class
